@@ -5,7 +5,7 @@
   "forceUpdateUrl": "market://details?id=play.retro.emulator.nes",
   "checkClone": false,
   "reviewVersion": -1,
-  "showNESGamesTimeDelay": 0,
+  "showNESGamesTimeDelay": 30,
   "adsNetwork": 0,
   "adsType": 1,
   "numberPressToShowAds": 10,
