@@ -1,6 +1,6 @@
 {
   "packageName": "play.retro.emulator.nes",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "forceUpdateContent": "NES Games are under maintenance!\nPlease come back in 2 HOUR or PLAY\nother version on store! Many thanks!",
   "forceUpdateUrl": "market://details?id=enjoy.retro.emulator.nes",
   "checkClone": false,
